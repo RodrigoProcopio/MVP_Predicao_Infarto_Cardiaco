@@ -7,7 +7,7 @@ Este evento ocorre quando o fornecimento de sangue para uma parte do músculo ca
 O impacto do infarto cardíaco na saúde pública é significativo, exigindo medidas preventivas para reduzir sua incidência. 
 Adotar bons hábitos de vida, como alimentação saudável, prática regular de exercícios e controle de fatores de risco, é crucial para prevenir complicações.
 
-Este projeto, visando a prevenção, passou por um processo de criação de um modelo de machine learning utilizando o dataset disponível em https://github.com/RodrigoProcopio/CAD_Prediction_Database. 
+Este projeto, visando a prevenção, passou por um processo de criação de um modelo de machine learning utilizando o dataset disponível [neste link](https://github.com/RodrigoProcopio/CAD_Prediction_Database). 
 O problema foi abordado como um processo de classificação, com modelagem, inferência, criação e avaliação de modelos.
 
 Os dados passaram por normalização e ajustes de hiperparâmetros, sendo que o modelo com melhor acurácia foi o Naive Bayes. 

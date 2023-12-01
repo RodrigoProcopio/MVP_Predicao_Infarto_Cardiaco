@@ -82,4 +82,4 @@ Visando a segurança e confidencialidade, este sistema não coleta dados sensív
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/blob/main/MVP_Heart_Attack_Prediction_API/LICENSE.md) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/blob/main/MVP_Predicao_Infarto_Cardiaco_API/LICENSE.md) para obter detalhes.

@@ -22,12 +22,14 @@ O sistema permite que os usuários respondam um questionário que visa obter dad
 Consumo de álcool, Dieta, Problema cardíaco, Uso de medicação, Nível de estresse, Triglicerídeos, Atividade física na semana, Horas de sono.
 
 Com esses dados é possível realizar uma predição de risco de infarto cardíaco, utilizando o modelo de machine learning Naive Bayes (NB). 
+O backend pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_API).
+O front pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_Front).
 
 ## Notas de Versão
 
 ### Versão 1.0.0 (setembro/2023)
 
-- Funcionalidade de inserir dados através de um questionário.
+- Funcionalidade de inserir dados através de um question)ário.
 - Gerar uma predição.
    
 ## Autor

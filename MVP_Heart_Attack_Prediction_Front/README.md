@@ -29,19 +29,19 @@ Com esses dados é possível realizar uma predição de risco de infarto cardía
 
 2. Insira as Informações:
 
-   - Preencha as informações solicitadas, começando com a idade.
-   - As seções seguintes serão exibidas conforme você avança.
+- Preencha as informações solicitadas, começando com a idade.
+- As seções seguintes serão exibidas conforme você avança.
    
 3. Navegação:
-   - Utilize os botões "Avançar" e "Voltar" para navegar entre as seções.
-   - O botão "Gerar Predição" aparecerá após o preenchimento de todas as informações.
+- Utilize os botões "Avançar" e "Voltar" para navegar entre as seções.
+- O botão "Gerar Predição" aparecerá após o preenchimento de todas as informações.
 
 4. Resultado e Mensagem:
-   - Após clicar em "Gerar Predição", a tabela exibirá os dados inseridos.
-   - Uma mensagem de resultado também será exibida com base nas informações fornecidas.
+- Após clicar em "Gerar Predição", a tabela exibirá os dados inseridos.
+- Uma mensagem de resultado também será exibida com base nas informações fornecidas.
 
 5. Fazer Nova Consulta:
-   - Após gerar uma predição, você pode clicar em "Fazer Nova Consulta" para reiniciar o processo.
+- Após gerar uma predição, você pode clicar em "Fazer Nova Consulta" para reiniciar o processo.
 
 ## Recursos
 
@@ -51,8 +51,8 @@ Com esses dados é possível realizar uma predição de risco de infarto cardía
 
 ### Versão 1.0.0 (setembro/2023)
 
-   - Funcionalidade de inserir dados através de um questionário.
-   - Gerar uma predição.
+- Funcionalidade de inserir dados através de um questionário.
+- Gerar uma predição.
    
 ## Autor
 

@@ -60,4 +60,4 @@ Este projeto foi desenvolvido por Rodrigo Procópio e pode ser encontrado no [Gi
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/blob/main/MVP_Heart_Attack_Prediction_Front/LICENSE.md)  para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/blob/main/MVP_Predicao_Infarto_Cardiaco_Front/LICENSE.md)

@@ -26,7 +26,7 @@ def test_modelo_lr():
     # Importando o modelo de regressão logística
     lr_path = 'ml_model/modelo_reglog.pkl'
     scaler_path = 'ml_model/scaler_reglog.pkl'
-    modelo_lr, scaler_lr = Model.carrega_modelo(lr_path, scaler_path)
+    modelo_lr, scaler_lr = modelo.carrega_modelo(lr_path, scaler_path)
     
     # Obtendo as métricas da Regressão Logística
     acuracia_lr = avaliador.avaliar(modelo_lr, X, Y)

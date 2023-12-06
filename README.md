@@ -7,7 +7,7 @@ Este evento ocorre quando o fornecimento de sangue para uma parte do músculo ca
 O impacto do infarto cardíaco na saúde pública é significativo, exigindo medidas preventivas para reduzir sua incidência. 
 Adotar bons hábitos de vida, como alimentação saudável, prática regular de exercícios e controle de fatores de risco, é crucial para prevenir complicações.
 
-## Este projeto passou por um processo de criação de um modelo de machine learning em um notebook no Google Colab, que pode ser encontrado [neste link](https://colab.research.google.com/drive/1ZWDelNTwBCxxQhLnRLcA90jnO9474fxV?usp=sharing).
+Este projeto passou por um processo de criação de um modelo de machine learning em um notebook no Google Colab, que pode ser encontrado [neste link](https://colab.research.google.com/drive/1ZWDelNTwBCxxQhLnRLcA90jnO9474fxV?usp=sharing).
 
 O problema foi abordado como um processo de classificação, com modelagem, inferência, criação e avaliação de modelos.
 
@@ -17,7 +17,7 @@ Posteriormente, um arquivo pkl do modelo treinado foi gerado e incorporado ao ba
 Ao fornecer informações personalizadas, busca-se conscientizar sobre a importância da avaliação de riscos individuais e promover a adoção de um estilo de vida saudável. 
 O projeto visa contribuir para uma sociedade mais saudável e resiliente diante dessa condição cardiovascular.
 
-## Você pode conferir o vídeo sobre o projeto, [neste link](https://youtube.com).
+Você pode conferir o vídeo sobre o projeto, [neste link](https://youtube.com).
 
 ## Descrição
 
@@ -32,9 +32,9 @@ O front pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predic
 
 ## Notas de Versão
 
-### Versão 1.0.0 (setembro/2023)
+### Versão 1.0.0 (novembro/2023)
 
-- Funcionalidade de inserir dados através de um question)ário.
+- Funcionalidade de inserir dados através de um questionário.
 - Gerar uma predição.
    
 ## Autor

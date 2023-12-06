@@ -7,7 +7,7 @@ Este evento ocorre quando o fornecimento de sangue para uma parte do músculo ca
 O impacto do infarto cardíaco na saúde pública é significativo, exigindo medidas preventivas para reduzir sua incidência. 
 Adotar bons hábitos de vida, como alimentação saudável, prática regular de exercícios e controle de fatores de risco, é crucial para prevenir complicações.
 
-## Este projeto, visando a prevenção, passou por um processo de criação de um modelo de machine learning que pode ser encontrado [neste link](https://colab.research.google.com/drive/1ZWDelNTwBCxxQhLnRLcA90jnO9474fxV?usp=sharing).
+## Este projeto, visando a prevenção, passou por um processo de criação de um modelo de machine learning em um notebook no Google Colab, que pode ser encontrado [neste link](https://colab.research.google.com/drive/1ZWDelNTwBCxxQhLnRLcA90jnO9474fxV?usp=sharing).
 
 O problema foi abordado como um processo de classificação, com modelagem, inferência, criação e avaliação de modelos.
 
@@ -17,7 +17,7 @@ Posteriormente, um arquivo pkl do modelo treinado foi gerado e incorporado ao ba
 Ao fornecer informações personalizadas, busca-se conscientizar sobre a importância da avaliação de riscos individuais e promover a adoção de um estilo de vida saudável. 
 O projeto visa contribuir para uma sociedade mais saudável e resiliente diante dessa condição cardiovascular.
 
-Você pode conferir o vídeo sobre o projeto, neste link.
+## Você pode conferir o vídeo sobre o projeto, [neste link](https://youtube.com).
 
 ## Descrição
 

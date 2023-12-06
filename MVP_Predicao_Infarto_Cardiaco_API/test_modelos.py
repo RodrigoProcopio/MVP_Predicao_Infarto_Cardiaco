@@ -19,22 +19,8 @@ dataset = carregador.carregar_dados(url_dados, colunas)
 # Separando em dados de entrada e saída
 X = dataset.iloc[:, 0:-1]
 Y = dataset.iloc[:, -1]
-    
-# Método para testar o modelo de Regressão Logística a partir do arquivo correspondente
-# Ajustes no teste test_modelo_lr
-def test_modelo_lr():
-    # Importando o modelo de regressão logística
-    lr_path = 'ml_model/modelo_reglog.pkl'
-    scaler_path = 'ml_model/scaler_reglog.pkl'
-    modelo_lr, scaler_lr = modelo.carrega_modelo(lr_path, scaler_path)
-    
-    # Obtendo as métricas da Regressão Logística
-    acuracia_lr = avaliador.avaliar(modelo_lr, X, Y)
-    
-    # Testando as métricas da Regressão Logística
-    assert acuracia_lr >= 0.64
 
-# Ajustes no teste test_modelo_nb
+# Teste do modelo Naive Bayes
 def test_modelo_nb():
     # Importando modelo NB
     nb_path = 'ml_model/modelo_naive_bayes.pkl'

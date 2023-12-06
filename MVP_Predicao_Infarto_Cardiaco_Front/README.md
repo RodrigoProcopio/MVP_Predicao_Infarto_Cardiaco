@@ -23,6 +23,15 @@ Consumo de álcool, Dieta, Problema cardíaco, Uso de medicação, Nível de est
 
 Com esses dados é possível realizar uma predição de risco de infarto cardíaco, utilizando o modelo de machine learning Naive Bayes (NB). 
 
+O notebook no Google Colab pode ser encontrado [aqui](https://colab.research.google.com/drive/1ZWDelNTwBCxxQhLnRLcA90jnO9474fxV?usp=sharing).
+
+O vídeo sobre projeto pode ser encontrado [aqui](https://youtube.com).
+
+O back-end pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_API).
+
+O front-end pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_Front).
+
+
 ## Como Usar
 
 1. Abra o arquivo `index.html` em um navegador da web.

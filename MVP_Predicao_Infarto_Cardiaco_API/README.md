@@ -73,6 +73,10 @@ Para obter a documentação completa desta API no estilo Swagger, acesse:
 
   Lista todos os pacientes cadastrados na base.
 
+## Teste Automatizado
+- Para executar o pytest utilize o seguinte comando:
+  pytest -v test_modelos.py
+
 ## Notas de Versão
 
 ### Versão 1.0.0 (novembro/2023)

@@ -49,7 +49,7 @@ Com esses dados é possível realizar uma predição de risco de infarto cardía
 
 ## Notas de Versão
 
-### Versão 1.0.0 (setembro/2023)
+### Versão 1.0.0 (novembro/2023)
 
 - Funcionalidade de inserir dados através de um questionário.
 - Gerar uma predição.

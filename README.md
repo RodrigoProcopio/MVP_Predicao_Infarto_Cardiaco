@@ -30,9 +30,9 @@ O notebook no Google Colab pode ser encontrado [aqui](https://colab.research.goo
 
 O vídeo sobre projeto pode ser encontrado [aqui](https://youtube.com).
 
-O backend pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_API).
+O back-end pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_API).
 
-O front pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_Front).
+O front-end pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_Front).
 
 ## Notas de Versão
 

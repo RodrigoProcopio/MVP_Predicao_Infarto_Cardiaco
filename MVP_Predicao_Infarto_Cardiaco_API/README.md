@@ -75,6 +75,7 @@ Para obter a documentação completa desta API no estilo Swagger, acesse:
 
 ## Teste Automatizado
 - Para executar o pytest utilize o seguinte comando:
+
   pytest -v test_modelos.py
 
 ## Notas de Versão

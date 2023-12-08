@@ -131,7 +131,7 @@ def del_paciente_id(query: PacienteIdSchema):
         logger.debug(f"Deletado paciente #{paciente_id}")
         return {"mensagem": "Paciente removido", "id": paciente_id}
     else:
-        error_msg = "Medicamento não encontrado."
+        error_msg = "Paciente não encontrado."
         logger.warning(f"Erro ao deletar paciente #'{paciente_id}', {error_msg}")
         return {"mensagem": error_msg}, 404    
 

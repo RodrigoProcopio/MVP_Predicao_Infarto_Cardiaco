@@ -372,7 +372,7 @@ function displayOutcome(outcome) {
         // Chama a função para excluir o paciente com ID 1 após um intervalo de tempo (por exemplo, 5 segundos)
         setTimeout(() => {
             deletePatientById(1);
-        }, 1000);
+        }, 5000);
     }
 }
 

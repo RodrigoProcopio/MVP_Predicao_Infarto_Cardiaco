@@ -17,7 +17,7 @@ Posteriormente, um arquivo pkl do modelo treinado foi gerado e incorporado ao ba
 Ao fornecer informações personalizadas, busca-se conscientizar sobre a importância da avaliação de riscos individuais e promover a adoção de um estilo de vida saudável. 
 O projeto visa contribuir para uma sociedade mais saudável e resiliente diante dessa condição cardiovascular.
 
-Você pode conferir o vídeo sobre o projeto, [neste link](https://youtube.com).
+Você pode conferir o vídeo sobre o projeto, [neste link](https://www.youtube.com/watch?v=X-GpuFiQmlg).
 
 ## Descrição
 
@@ -28,7 +28,7 @@ Com esses dados é possível realizar uma predição de risco de infarto cardía
 
 O notebook no Google Colab pode ser encontrado [aqui](https://colab.research.google.com/drive/1ZWDelNTwBCxxQhLnRLcA90jnO9474fxV?usp=sharing).
 
-O vídeo sobre projeto pode ser encontrado [aqui](https://youtube.com).
+O vídeo sobre projeto pode ser encontrado [aqui](https://www.youtube.com/watch?v=X-GpuFiQmlg).
 
 O back-end pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_API).
 

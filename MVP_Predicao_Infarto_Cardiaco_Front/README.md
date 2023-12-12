@@ -27,6 +27,8 @@ O notebook no Google Colab pode ser encontrado [aqui](https://colab.research.goo
 
 O vídeo sobre projeto pode ser encontrado [aqui](https://www.youtube.com/watch?v=X-GpuFiQmlg).
 
+O vídeo com a execução do Pytest pode ser encontrado [aqui](https://www.loom.com/share/ec108e418e8548f19ce46d64cff50e8e?sid=ac087b51-ae5a-4de9-ab86-473f4754f1c9).
+
 O back-end pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_API).
 
 O front-end pode ser encontrado [aqui](https://github.com/RodrigoProcopio/MVP_Predicao_Infarto_Cardiaco/tree/main/MVP_Predicao_Infarto_Cardiaco_Front).
